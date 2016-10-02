@@ -1,161 +1,131 @@
-There were 10 iterations of K-means Algorithm
-Iteration took 5 instance(s) to converge
+There were 5 iterations of K-means Algorithm
+Iteration took 10 instance(s) to converge
 Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78056.43763268557, Intercluster_Variability=354.4008693369817, IV_EV_Ratio=0.004540315700861282}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=347.00131872078634, Intercluster_Variability=412.52371117809815, IV_EV_Ratio=1.188824620894407}
 Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80810.88292031363, Intercluster_Variability=321.64126914198306, IV_EV_Ratio=0.003980172688611119}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=341.7300614284041, Intercluster_Variability=402.5382982242703, IV_EV_Ratio=1.177942310786744}
 Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81657.24859678678, Intercluster_Variability=314.2886157290822, IV_EV_Ratio=0.0038488758944230394}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=348.14145820581524, Intercluster_Variability=387.8172809141079, IV_EV_Ratio=1.1139646594024346}
 Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521495, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720105}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=364.82732594788297, Intercluster_Variability=356.28882650230014, IV_EV_Ratio=0.9765957787745247}
 Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521495, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720105}
-
-Iteration took 5 instance(s) to converge
-Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69813.63502085366, Intercluster_Variability=410.6747379190685, IV_EV_Ratio=0.0058824431330125986}
-Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80470.71459999742, Intercluster_Variability=329.75867814074604, IV_EV_Ratio=0.004097871875251828}
-Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81716.95392365746, Intercluster_Variability=313.98475384597776, IV_EV_Ratio=0.0038423453000868356}
-Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
-Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
-
-Iteration took 8 instance(s) to converge
-Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80436.51020456711, Intercluster_Variability=336.71353317923194, IV_EV_Ratio=0.0041860783408292825}
-Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81781.99008170034, Intercluster_Variability=319.00505734336986, IV_EV_Ratio=0.003900676139388187}
-Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.20073470601, Intercluster_Variability=314.92566134602646, IV_EV_Ratio=0.003842140522839691}
-Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81983.67942474157, Intercluster_Variability=314.27680675712156, IV_EV_Ratio=0.003833406953217046}
-Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.79877819931, Intercluster_Variability=313.5163438948533, IV_EV_Ratio=0.003824918730121728}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=383.20663773211857, Intercluster_Variability=324.11939840654395, IV_EV_Ratio=0.8458084137705368}
 Instance #:6
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.3711821114, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.00382605840514885}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=386.7231578052324, Intercluster_Variability=318.2000568552383, IV_EV_Ratio=0.8228109706724499}
 Instance #:7
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967127, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350477}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=388.0840163047845, Intercluster_Variability=315.77842953493143, IV_EV_Ratio=0.8136857388296369}
 Instance #:8
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967127, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350477}
-
-Iteration took 5 instance(s) to converge
-Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=72188.45344801972, Intercluster_Variability=390.09793705402296, IV_EV_Ratio=0.0054038827322283375}
-Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81365.76187782674, Intercluster_Variability=317.80333958065637, IV_EV_Ratio=0.0039058607975409622}
-Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81883.85569795343, Intercluster_Variability=313.69694173177714, IV_EV_Ratio=0.0038309986633863107}
-Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967146, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235038}
-Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967146, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235038}
-
-Iteration took 11 instance(s) to converge
-Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=75200.56040016895, Intercluster_Variability=400.62736943732983, IV_EV_Ratio=0.005327451913994377}
-Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76275.55515003204, Intercluster_Variability=388.104080538314, IV_EV_Ratio=0.0050881842783697}
-Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78756.53135896665, Intercluster_Variability=362.6166731871159, IV_EV_Ratio=0.004604274298652578}
-Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80510.5472557805, Intercluster_Variability=335.9147561205739, IV_EV_Ratio=0.004172307450021163}
-Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81629.77521241325, Intercluster_Variability=319.9811146001204, IV_EV_Ratio=0.003919906844867332}
-Instance #:6
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81916.49971042154, Intercluster_Variability=315.565320874339, IV_EV_Ratio=0.003852280334119212}
-Instance #:7
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81954.46393071098, Intercluster_Variability=314.742029675062, IV_EV_Ratio=0.003840450105819288}
-Instance #:8
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81955.99511279873, Intercluster_Variability=313.769237234604, IV_EV_Ratio=0.003828508662517649}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.12835201741615, Intercluster_Variability=313.9847538459777, IV_EV_Ratio=0.8068925130182361}
 Instance #:9
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211138, Intercluster_Variability=313.5392543495752, IV_EV_Ratio=0.0038260584051488513}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.36521754864185, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.8057583081912236}
 Instance #:10
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
-Instance #:11
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.36521754864185, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.8057583081912236}
+First centroids
+Cluster:1 Point{Area=15.033571428571427, Perimeter=14.672000000000002, compactness=0.8686928571428574, length_of_kernel=5.667171428571427, width_of_kernel=3.2722428571428575, asymmetry_coefficient=3.5146442857142843, length_of_kernel_groove=5.455585714285714, Cluster=1}
+Cluster:2 Point{Area=14.9315625, Perimeter=14.586250000000001, compactness=0.8729468749999999, length_of_kernel=5.639062500000001, width_of_kernel=3.2767343749999998, asymmetry_coefficient=3.9002828124999986, length_of_kernel_groove=5.43159375, Cluster=2}
+Cluster:3 Point{Area=14.605394736842106, Perimeter=14.432763157894739, compactness=0.8714815789473684, length_of_kernel=5.584078947368421, width_of_kernel=3.2307763157894724, asymmetry_coefficient=3.702618421052633, length_of_kernel_groove=5.344499999999999, Cluster=3}
+Final Centroids
+Cluster:1 Point{Area=18.721803278688522, Perimeter=16.297377049180323, compactness=0.8850868852459016, length_of_kernel=6.20893442622951, width_of_kernel=3.722672131147541, asymmetry_coefficient=3.603590163934427, length_of_kernel_groove=6.066098360655739, Cluster=1}
+Cluster:2 Point{Area=14.819104477611937, Perimeter=14.53716417910447, compactness=0.8805223880597014, length_of_kernel=5.591014925373134, width_of_kernel=3.2993582089552236, asymmetry_coefficient=2.7065850746268656, length_of_kernel_groove=5.217537313432835, Cluster=2}
+Cluster:3 Point{Area=11.988658536585364, Perimeter=13.284390243902443, compactness=0.852736585365854, length_of_kernel=5.227426829268292, width_of_kernel=2.8800853658536587, asymmetry_coefficient=4.583926829268291, length_of_kernel_groove=5.074243902439024, Cluster=3}
 
-Iteration took 5 instance(s) to converge
+Iteration took 7 instance(s) to converge
 Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69887.75889402321, Intercluster_Variability=394.9767917487431, IV_EV_Ratio=0.005651587602739991}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=379.56108431192644, Intercluster_Variability=335.29677485397565, IV_EV_Ratio=0.8833802745131426}
 Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80589.54521500181, Intercluster_Variability=322.8990967866664, IV_EV_Ratio=0.004006711986340363}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.5800819918139, Intercluster_Variability=316.7809109744982, IV_EV_Ratio=0.8131342581861118}
 Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81657.24859678683, Intercluster_Variability=314.2886157290822, IV_EV_Ratio=0.0038488758944230372}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.3248859704397, Intercluster_Variability=314.3776827039708, IV_EV_Ratio=0.805425669752913}
 Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521497, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720104}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.3180894199972, Intercluster_Variability=313.5163438948534, IV_EV_Ratio=0.8032329333255621}
 Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521497, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720104}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.23033896243544, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.803472265081258}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.133434379387, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.8028453147193599}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.133434379387, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.8028453147193599}
+First centroids
+Cluster:1 Point{Area=14.892857142857146, Perimeter=14.572571428571427, compactness=0.873654285714286, length_of_kernel=5.619071428571426, width_of_kernel=3.274957142857142, asymmetry_coefficient=3.4262157142857124, length_of_kernel_groove=5.3538571428571435, Cluster=1}
+Cluster:2 Point{Area=14.56815789473684, Perimeter=14.448026315789479, compactness=0.8676815789473684, length_of_kernel=5.604276315789475, width_of_kernel=3.2096052631578944, asymmetry_coefficient=3.956263157894736, length_of_kernel_groove=5.403263157894735, Cluster=2}
+Cluster:3 Point{Area=15.129687500000003, Perimeter=14.676875, compactness=0.8720328125, length_of_kernel=5.667687500000001, width_of_kernel=3.2989062499999995, asymmetry_coefficient=3.695798437500002, length_of_kernel_groove=5.473078124999999, Cluster=3}
+Final Centroids
+Cluster:1 Point{Area=14.648472222222223, Perimeter=14.460416666666665, compactness=0.8791666666666667, length_of_kernel=5.563777777777776, width_of_kernel=3.2779027777777774, asymmetry_coefficient=2.6489333333333334, length_of_kernel_groove=5.192319444444445, Cluster=1}
+Cluster:2 Point{Area=11.964415584415582, Perimeter=13.274805194805204, compactness=0.8522000000000002, length_of_kernel=5.229285714285715, width_of_kernel=2.872922077922078, asymmetry_coefficient=4.759740259740259, length_of_kernel_groove=5.088519480519479, Cluster=2}
+Cluster:3 Point{Area=18.721803278688522, Perimeter=16.297377049180323, compactness=0.8850868852459016, length_of_kernel=6.20893442622951, width_of_kernel=3.722672131147541, asymmetry_coefficient=3.603590163934427, length_of_kernel_groove=6.066098360655739, Cluster=3}
 
 Iteration took 12 instance(s) to converge
 Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69909.34751911664, Intercluster_Variability=411.9216758761027, IV_EV_Ratio=0.005892226011170583}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=316.8553851716807, Intercluster_Variability=419.79932266589435, IV_EV_Ratio=1.3248924976876624}
 Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=74735.10046976314, Intercluster_Variability=396.6335548702408, IV_EV_Ratio=0.005307192368473682}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=342.0981260936921, Intercluster_Variability=401.22846279894793, IV_EV_Ratio=1.172846128625275}
 Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76563.21670159919, Intercluster_Variability=390.78128928517424, IV_EV_Ratio=0.005104034366897387}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=353.4482512420435, Intercluster_Variability=392.1576331033313, IV_EV_Ratio=1.109519234358241}
 Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78240.05535164278, Intercluster_Variability=370.81608155579255, IV_EV_Ratio=0.004739465992057311}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=370.4004270864382, Intercluster_Variability=371.47801384553304, IV_EV_Ratio=1.0029092481549526}
 Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80594.5139680508, Intercluster_Variability=335.68947770723423, IV_EV_Ratio=0.004165165359025652}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=382.8401386315773, Intercluster_Variability=337.20455491100034, IV_EV_Ratio=0.8807972855623325}
 Instance #:6
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81629.77521241325, Intercluster_Variability=319.9811146001204, IV_EV_Ratio=0.003919906844867332}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=388.71321529720626, Intercluster_Variability=319.9811146001204, IV_EV_Ratio=0.8231804374221392}
 Instance #:7
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81916.49971042154, Intercluster_Variability=315.565320874339, IV_EV_Ratio=0.003852280334119212}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.0785700496265, Intercluster_Variability=315.56532087433897, IV_EV_Ratio=0.8089788701650342}
 Instance #:8
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81954.46393071098, Intercluster_Variability=314.742029675062, IV_EV_Ratio=0.003840450105819288}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.2593520510049, Intercluster_Variability=314.742029675062, IV_EV_Ratio=0.80649452222205}
 Instance #:9
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81955.99511279873, Intercluster_Variability=313.769237234604, IV_EV_Ratio=0.003828508662517649}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.2666433942801, Intercluster_Variability=313.769237234604, IV_EV_Ratio=0.8039868191287054}
 Instance #:10
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211138, Intercluster_Variability=313.5392543495752, IV_EV_Ratio=0.0038260584051488513}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.23033896243555, Intercluster_Variability=313.5392543495752, IV_EV_Ratio=0.803472265081258}
 Instance #:11
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.13343437938727, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.8028453147193593}
 Instance #:12
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.13343437938727, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.8028453147193593}
+First centroids
+Cluster:1 Point{Area=14.699999999999998, Perimeter=14.495507246376818, compactness=0.8690797101449277, length_of_kernel=5.618623188405799, width_of_kernel=3.233028985507246, asymmetry_coefficient=3.6558985507246375, length_of_kernel_groove=5.38763768115942, Cluster=1}
+Cluster:2 Point{Area=14.861029411764711, Perimeter=14.571617647058822, compactness=0.8706735294117645, length_of_kernel=5.625470588235295, width_of_kernel=3.2591323529411755, asymmetry_coefficient=3.709679411764706, length_of_kernel_groove=5.434955882352941, Cluster=2}
+Cluster:3 Point{Area=14.974383561643833, Perimeter=14.608082191780824, compactness=0.8731150684931511, length_of_kernel=5.640753424657533, width_of_kernel=3.282287671232876, asymmetry_coefficient=3.7332465753424655, length_of_kernel_groove=5.402342465753423, Cluster=3}
+Final Centroids
+Cluster:1 Point{Area=14.648472222222223, Perimeter=14.460416666666665, compactness=0.8791666666666667, length_of_kernel=5.563777777777778, width_of_kernel=3.2779027777777774, asymmetry_coefficient=2.6489333333333334, length_of_kernel_groove=5.192319444444443, Cluster=1}
+Cluster:2 Point{Area=11.964415584415582, Perimeter=13.274805194805204, compactness=0.8522000000000002, length_of_kernel=5.229285714285715, width_of_kernel=2.872922077922078, asymmetry_coefficient=4.759740259740259, length_of_kernel_groove=5.088519480519479, Cluster=2}
+Cluster:3 Point{Area=18.721803278688522, Perimeter=16.297377049180323, compactness=0.8850868852459016, length_of_kernel=6.20893442622951, width_of_kernel=3.722672131147541, asymmetry_coefficient=3.603590163934427, length_of_kernel_groove=6.066098360655739, Cluster=3}
 
 Iteration took 5 instance(s) to converge
 Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=74798.10446505158, Intercluster_Variability=362.74607698576233, IV_EV_Ratio=0.0048496693810636685}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=368.86975749806186, Intercluster_Variability=348.4044145754931, IV_EV_Ratio=0.944518783373895}
 Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81023.88673097547, Intercluster_Variability=320.1330408297253, IV_EV_Ratio=0.003951094593779075}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=386.5283428419159, Intercluster_Variability=318.9421196562046, IV_EV_Ratio=0.8251454920775293}
 Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81760.13642947549, Intercluster_Variability=314.0549777274895, IV_EV_Ratio=0.003841174824829047}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.3339829975019, Intercluster_Variability=314.0549777274894, IV_EV_Ratio=0.8066467132141005}
 Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.36521754864185, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.8057583081912236}
 Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=389.36521754864185, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.8057583081912236}
+First centroids
+Cluster:1 Point{Area=15.136911764705875, Perimeter=14.690588235294124, compactness=0.8713720588235293, length_of_kernel=5.679029411764707, width_of_kernel=3.2875735294117647, asymmetry_coefficient=3.989413235294118, length_of_kernel_groove=5.483852941176468, Cluster=1}
+Cluster:2 Point{Area=14.841081081081079, Perimeter=14.569864864864869, compactness=0.8692148648648649, length_of_kernel=5.6477432432432435, width_of_kernel=3.2496486486486473, asymmetry_coefficient=3.4233391891891887, length_of_kernel_groove=5.412324324324325, Cluster=2}
+Cluster:3 Point{Area=14.565147058823532, Perimeter=14.416470588235295, compactness=0.8725661764705883, length_of_kernel=5.557132352941176, width_of_kernel=3.2393823529411763, asymmetry_coefficient=3.7122794117647056, length_of_kernel_groove=5.3276617647058835, Cluster=3}
+Final Centroids
+Cluster:1 Point{Area=18.721803278688522, Perimeter=16.297377049180323, compactness=0.8850868852459016, length_of_kernel=6.20893442622951, width_of_kernel=3.722672131147541, asymmetry_coefficient=3.603590163934427, length_of_kernel_groove=6.066098360655739, Cluster=1}
+Cluster:2 Point{Area=14.819104477611937, Perimeter=14.53716417910447, compactness=0.8805223880597014, length_of_kernel=5.591014925373134, width_of_kernel=3.2993582089552236, asymmetry_coefficient=2.7065850746268656, length_of_kernel_groove=5.217537313432835, Cluster=2}
+Cluster:3 Point{Area=11.988658536585364, Perimeter=13.284390243902443, compactness=0.852736585365854, length_of_kernel=5.227426829268292, width_of_kernel=2.8800853658536587, asymmetry_coefficient=4.583926829268291, length_of_kernel_groove=5.074243902439024, Cluster=3}
 
-Iteration took 7 instance(s) to converge
+Iteration took 6 instance(s) to converge
 Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76346.29704799764, Intercluster_Variability=356.1693200697031, IV_EV_Ratio=0.004665181336113595}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=338.13249768859504, Intercluster_Variability=396.37992450636153, IV_EV_Ratio=1.1722621375228175}
 Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81685.23019554824, Intercluster_Variability=317.7957958418291, IV_EV_Ratio=0.0038904927498037293}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=387.89435231311217, Intercluster_Variability=319.7874758009566, IV_EV_Ratio=0.8244190045407543}
 Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81968.22605379234, Intercluster_Variability=314.3776827039708, IV_EV_Ratio=0.0038353603321567282}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.22907299422644, Intercluster_Variability=314.4007503171539, IV_EV_Ratio=0.8056825389885944}
 Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.79877819945, Intercluster_Variability=313.5163438948534, IV_EV_Ratio=0.0038249187301217227}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.2363522214494, Intercluster_Variability=313.50659869982917, IV_EV_Ratio=0.8033762024351898}
 Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211147, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.0038260584051488466}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.133434379388, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.8028453147193579}
 Instance #:6
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967131, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235045}
-Instance #:7
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967131, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235045}
-
-Iteration took 7 instance(s) to converge
-Instance #:1
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=79918.60680883615, Intercluster_Variability=335.83675097368234, IV_EV_Ratio=0.004202234803429416}
-Instance #:2
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81778.16922536158, Intercluster_Variability=318.1149500573403, IV_EV_Ratio=0.0038899739755813025}
-Instance #:3
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81987.30791142231, Intercluster_Variability=314.50106667200015, IV_EV_Ratio=0.003835972599707527}
-Instance #:4
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81984.11633372548, Intercluster_Variability=314.07478792594634, IV_EV_Ratio=0.003830922402669682}
-Instance #:5
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211141, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.003826058405148849}
-Instance #:6
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.0212196713, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350464}
-Instance #:7
-KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.0212196713, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350464}
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=390.133434379388, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.8028453147193579}
+First centroids
+Cluster:1 Point{Area=14.443999999999999, Perimeter=14.37, compactness=0.8707292307692308, length_of_kernel=5.560461538461537, width_of_kernel=3.215246153846153, asymmetry_coefficient=3.8882476923076927, length_of_kernel_groove=5.365676923076924, Cluster=1}
+Cluster:2 Point{Area=15.249285714285715, Perimeter=14.741285714285718, compactness=0.8730442857142862, length_of_kernel=5.682014285714289, width_of_kernel=3.3099142857142856, asymmetry_coefficient=3.556472857142857, length_of_kernel_groove=5.444614285714281, Cluster=2}
+Cluster:3 Point{Area=14.822266666666668, Perimeter=14.553466666666669, compactness=0.8693226666666666, length_of_kernel=5.637613333333333, width_of_kernel=3.2482933333333333, asymmetry_coefficient=3.6713733333333334, length_of_kernel_groove=5.410706666666667, Cluster=3}
+Final Centroids
+Cluster:1 Point{Area=11.964415584415583, Perimeter=13.274805194805197, compactness=0.8522000000000002, length_of_kernel=5.229285714285714, width_of_kernel=2.8729220779220785, asymmetry_coefficient=4.7597402597402585, length_of_kernel_groove=5.088519480519479, Cluster=1}
+Cluster:2 Point{Area=18.721803278688522, Perimeter=16.297377049180323, compactness=0.8850868852459016, length_of_kernel=6.20893442622951, width_of_kernel=3.722672131147541, asymmetry_coefficient=3.603590163934427, length_of_kernel_groove=6.066098360655739, Cluster=2}
+Cluster:3 Point{Area=14.648472222222223, Perimeter=14.460416666666665, compactness=0.8791666666666667, length_of_kernel=5.563777777777776, width_of_kernel=3.2779027777777774, asymmetry_coefficient=2.6489333333333334, length_of_kernel_groove=5.192319444444445, Cluster=3}
 

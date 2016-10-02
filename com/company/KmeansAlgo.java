@@ -55,7 +55,7 @@ public class KmeansAlgo {
             Random rand = new Random();
             int rand_cluster = rand.nextInt(num_of_cluster) + 1;
             datum.setCluster(rand_cluster);
-            clusters[rand_cluster-1].getPointSet().add(datum);
+            clusters[datum.getCluster()-1].getPointSet().add(datum);
         }
 
         calculateCentroids();
@@ -180,6 +180,7 @@ public class KmeansAlgo {
                 Extracluster_Variability += EV_between_Cluster(clusters[cluster_idx],clusters[cluster_idx2]);
             }
         }
+        Extracluster_Variability /= Data.size();
 
     }
 
@@ -234,7 +235,16 @@ public class KmeansAlgo {
     }
 
     public String getSummary() {
-        summary =("Iteration took " + iterations + " instance(s) to converge" + System.getProperty("line.separator") + summary + System.getProperty("line.separator") );
+        String prefix =("Iteration took " + iterations + " instance(s) to converge" + System.getProperty("line.separator"));
+        String suffix = "";
+        suffix += ("First centroids" ) + System.getProperty("line.separator");
+        for(int i = 0; i <num_of_cluster;i++)
+            suffix += "Cluster:" + (i + 1)+ " " + clusters[i].getCentroid_History().get(0) + System.getProperty("line.separator");
+        suffix += "Final Centroids" + System.getProperty("line.separator");
+        for(int i = 0; i <num_of_cluster;i++)
+            suffix += "Cluster:" + (i + 1)+" " + clusters[i].getCentroid_History().get(clusters[i].getCentroid_History().size() - 1) + System.getProperty("line.separator");
+        suffix += System.getProperty("line.separator") ;
+         summary = prefix + summary + suffix;
         return summary;
     }
 }

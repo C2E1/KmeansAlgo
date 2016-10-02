@@ -11,7 +11,7 @@ public class Main {
 
         File file = new File(args[0]);
         Scanner fileIn = new Scanner(file);
-        Kmeans KMS = new Kmeans(3,10);
+        Kmeans KMS = new Kmeans(3,5);
         File file1 = new File("Summary.txt");
         //Data Input
         while(fileIn.hasNext()){
@@ -19,7 +19,8 @@ public class Main {
                     Double.parseDouble(fileIn.next()),Double.parseDouble(fileIn.next()),
                     Double.parseDouble(fileIn.next()),Double.parseDouble(fileIn.next()),
                     Double.parseDouble(fileIn.next()));
-            fileIn.next();
+                    datum.setCluster(Integer.parseInt(fileIn.next()));
+
 
             KMS.add_Datum(datum);
         }

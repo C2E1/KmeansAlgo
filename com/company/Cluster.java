@@ -1,19 +1,26 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 /**
  * Created by Christian on 9/30/2016.
  */
 public class Cluster {
-        private double ClusterIV;
-        private Point centroid;
-        private HashSet<Point> pointSet;
-        private int clusterID;
+
+    /**
+     *
+     */
+    private double ClusterIV;
+    private Point centroid;
+    private HashSet<Point> pointSet;
+    private int clusterID;
+    private ArrayList <Point> Centroid_History;
 
     public Cluster(int clusterID) {
         this.clusterID = clusterID;
         pointSet = new HashSet<Point>();
+        Centroid_History= new ArrayList<>();
     }
 
     public HashSet<Point> getPointSet() {
@@ -21,7 +28,6 @@ public class Cluster {
     }
 
     public void calculateCentroid(){
-        Point Center;
         double avgs[] = new double[7];
         for(int i = 0; i < avgs.length;i++)
             avgs[i] = 0;
@@ -38,8 +44,9 @@ public class Cluster {
                 avgs[2]/pointSet.size(),avgs[3]/pointSet.size(),
                 avgs[4]/pointSet.size(),avgs[5]/pointSet.size(),
                 avgs[6]/pointSet.size());
-        centroid.setCluster(clusterID);
 
+        centroid.setCluster(clusterID);
+        Centroid_History.add(centroid);
     }
 
     public Point getCentroid() {
@@ -66,6 +73,9 @@ public class Cluster {
     public double getClusterIV(){
         return ClusterIV;
     }
+    public ArrayList<Point> getCentroid_History(){
+        return Centroid_History;
+    }
 
 
     public double EuclideanDistance(Point P1, Point P2){
@@ -78,4 +88,11 @@ public class Cluster {
                 Math.pow(P1.getWidth_of_kernel()-P2.getWidth_of_kernel(),2));
     }
 
+    @Override
+    public String toString() {
+        return "Cluster{" +
+                "Centroid_History=" + Centroid_History +
+                '}';
+    }
 }
+
