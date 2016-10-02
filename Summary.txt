@@ -1,0 +1,161 @@
+There were 10 iterations of K-means Algorithm
+Iteration took 5 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78056.43763268557, Intercluster_Variability=354.4008693369817, IV_EV_Ratio=0.004540315700861282}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80810.88292031363, Intercluster_Variability=321.64126914198306, IV_EV_Ratio=0.003980172688611119}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81657.24859678678, Intercluster_Variability=314.2886157290822, IV_EV_Ratio=0.0038488758944230394}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521495, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720105}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521495, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720105}
+
+Iteration took 5 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69813.63502085366, Intercluster_Variability=410.6747379190685, IV_EV_Ratio=0.0058824431330125986}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80470.71459999742, Intercluster_Variability=329.75867814074604, IV_EV_Ratio=0.004097871875251828}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81716.95392365746, Intercluster_Variability=313.98475384597776, IV_EV_Ratio=0.0038423453000868356}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+
+Iteration took 8 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80436.51020456711, Intercluster_Variability=336.71353317923194, IV_EV_Ratio=0.0041860783408292825}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81781.99008170034, Intercluster_Variability=319.00505734336986, IV_EV_Ratio=0.003900676139388187}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.20073470601, Intercluster_Variability=314.92566134602646, IV_EV_Ratio=0.003842140522839691}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81983.67942474157, Intercluster_Variability=314.27680675712156, IV_EV_Ratio=0.003833406953217046}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.79877819931, Intercluster_Variability=313.5163438948533, IV_EV_Ratio=0.003824918730121728}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.3711821114, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.00382605840514885}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967127, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350477}
+Instance #:8
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967127, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350477}
+
+Iteration took 5 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=72188.45344801972, Intercluster_Variability=390.09793705402296, IV_EV_Ratio=0.0054038827322283375}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81365.76187782674, Intercluster_Variability=317.80333958065637, IV_EV_Ratio=0.0039058607975409622}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81883.85569795343, Intercluster_Variability=313.69694173177714, IV_EV_Ratio=0.0038309986633863107}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967146, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235038}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967146, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235038}
+
+Iteration took 11 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=75200.56040016895, Intercluster_Variability=400.62736943732983, IV_EV_Ratio=0.005327451913994377}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76275.55515003204, Intercluster_Variability=388.104080538314, IV_EV_Ratio=0.0050881842783697}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78756.53135896665, Intercluster_Variability=362.6166731871159, IV_EV_Ratio=0.004604274298652578}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80510.5472557805, Intercluster_Variability=335.9147561205739, IV_EV_Ratio=0.004172307450021163}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81629.77521241325, Intercluster_Variability=319.9811146001204, IV_EV_Ratio=0.003919906844867332}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81916.49971042154, Intercluster_Variability=315.565320874339, IV_EV_Ratio=0.003852280334119212}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81954.46393071098, Intercluster_Variability=314.742029675062, IV_EV_Ratio=0.003840450105819288}
+Instance #:8
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81955.99511279873, Intercluster_Variability=313.769237234604, IV_EV_Ratio=0.003828508662517649}
+Instance #:9
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211138, Intercluster_Variability=313.5392543495752, IV_EV_Ratio=0.0038260584051488513}
+Instance #:10
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+Instance #:11
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+
+Iteration took 5 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69887.75889402321, Intercluster_Variability=394.9767917487431, IV_EV_Ratio=0.005651587602739991}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80589.54521500181, Intercluster_Variability=322.8990967866664, IV_EV_Ratio=0.004006711986340363}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81657.24859678683, Intercluster_Variability=314.2886157290822, IV_EV_Ratio=0.0038488758944230372}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521497, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720104}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521497, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.003836944324720104}
+
+Iteration took 12 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=69909.34751911664, Intercluster_Variability=411.9216758761027, IV_EV_Ratio=0.005892226011170583}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=74735.10046976314, Intercluster_Variability=396.6335548702408, IV_EV_Ratio=0.005307192368473682}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76563.21670159919, Intercluster_Variability=390.78128928517424, IV_EV_Ratio=0.005104034366897387}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=78240.05535164278, Intercluster_Variability=370.81608155579255, IV_EV_Ratio=0.004739465992057311}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=80594.5139680508, Intercluster_Variability=335.68947770723423, IV_EV_Ratio=0.004165165359025652}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81629.77521241325, Intercluster_Variability=319.9811146001204, IV_EV_Ratio=0.003919906844867332}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81916.49971042154, Intercluster_Variability=315.565320874339, IV_EV_Ratio=0.003852280334119212}
+Instance #:8
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81954.46393071098, Intercluster_Variability=314.742029675062, IV_EV_Ratio=0.003840450105819288}
+Instance #:9
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81955.99511279873, Intercluster_Variability=313.769237234604, IV_EV_Ratio=0.003828508662517649}
+Instance #:10
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211138, Intercluster_Variability=313.5392543495752, IV_EV_Ratio=0.0038260584051488513}
+Instance #:11
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+Instance #:12
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967125, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.0038230729272350477}
+
+Iteration took 5 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=74798.10446505158, Intercluster_Variability=362.74607698576233, IV_EV_Ratio=0.0048496693810636685}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81023.88673097547, Intercluster_Variability=320.1330408297253, IV_EV_Ratio=0.003951094593779075}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81760.13642947549, Intercluster_Variability=314.0549777274895, IV_EV_Ratio=0.003841174824829047}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81766.69568521489, Intercluster_Variability=313.7342589605014, IV_EV_Ratio=0.0038369443247201077}
+
+Iteration took 7 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=76346.29704799764, Intercluster_Variability=356.1693200697031, IV_EV_Ratio=0.004665181336113595}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81685.23019554824, Intercluster_Variability=317.7957958418291, IV_EV_Ratio=0.0038904927498037293}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81968.22605379234, Intercluster_Variability=314.3776827039708, IV_EV_Ratio=0.0038353603321567282}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81966.79877819945, Intercluster_Variability=313.5163438948534, IV_EV_Ratio=0.0038249187301217227}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211147, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.0038260584051488466}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967131, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235045}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.02121967131, Intercluster_Variability=313.2167999068637, IV_EV_Ratio=0.003823072927235045}
+
+Iteration took 7 instance(s) to converge
+Instance #:1
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=79918.60680883615, Intercluster_Variability=335.83675097368234, IV_EV_Ratio=0.004202234803429416}
+Instance #:2
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81778.16922536158, Intercluster_Variability=318.1149500573403, IV_EV_Ratio=0.0038899739755813025}
+Instance #:3
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81987.30791142231, Intercluster_Variability=314.50106667200015, IV_EV_Ratio=0.003835972599707527}
+Instance #:4
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81984.11633372548, Intercluster_Variability=314.07478792594634, IV_EV_Ratio=0.003830922402669682}
+Instance #:5
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81948.37118211141, Intercluster_Variability=313.5392543495751, IV_EV_Ratio=0.003826058405148849}
+Instance #:6
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.0212196713, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350464}
+Instance #:7
+KmeansAlgo{num_of_cluster=3, Extracluster_Variability=81928.0212196713, Intercluster_Variability=313.21679990686374, IV_EV_Ratio=0.0038230729272350464}
+
