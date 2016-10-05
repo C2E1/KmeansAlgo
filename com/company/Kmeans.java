@@ -2,7 +2,7 @@ package com.company;
 import java.util.ArrayList;
 
 /**
- * Created by Christian on 9/30/2016.
+ * Calls the Kmean Algorithm, Holds all iterations of KMeans algorithm
  */
 public class Kmeans {
     /**

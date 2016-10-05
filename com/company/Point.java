@@ -1,10 +1,11 @@
 package com.company;
 
-/**
- * Created by Christian on 9/30/2016.
- */
+import java.text.DecimalFormat;
+
+
 public class Point {
-        private double Area;
+
+    private double Area;
         private double Perimeter;
         private double compactness;
         private double length_of_kernel;
@@ -87,17 +88,32 @@ public class Point {
         Cluster = cluster;
     }
 
+    /**
+     * prints seven dimensional points up to four decimal places for each component
+     * @return
+     */
     @Override
     public String toString() {
-        return "Point{" +
-                "Area=" + Area +
-                ", Perimeter=" + Perimeter +
-                ", compactness=" + compactness +
-                ", length_of_kernel=" + length_of_kernel +
-                ", width_of_kernel=" + width_of_kernel +
-                ", asymmetry_coefficient=" + asymmetry_coefficient +
-                ", length_of_kernel_groove=" + length_of_kernel_groove +
-                ", Cluster=" + Cluster +
-                '}';
+//        return "Point{" +
+//                "Area=" + Area +
+//                ", Perimeter=" + Perimeter +
+//                ", compactness=" + compactness +
+//                ", length_of_kernel=" + length_of_kernel +
+//                ", width_of_kernel=" + width_of_kernel +
+//                ", asymmetry_coefficient=" + asymmetry_coefficient +
+//                ", length_of_kernel_groove=" + length_of_kernel_groove +
+//                ", Cluster=" + Cluster +
+//                '}';
+        DecimalFormat df = new DecimalFormat("0.####");
+
+        return "<" +
+                 df.format(Area) +
+                "," + df.format(Perimeter) +
+                "," + df.format(compactness) +
+                "," + df.format(length_of_kernel) +
+                "," + df.format(width_of_kernel) +
+                "," + df.format(asymmetry_coefficient) +
+                "," + df.format(length_of_kernel_groove) +
+                ">";
     }
 }

@@ -1,9 +1,11 @@
 package com.company;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * Implements an the Kmeans Algorithm
+ */
 public class KmeansAlgo {
     /**
      * This class will actually Implement the K-means algorithm
@@ -13,7 +15,7 @@ public class KmeansAlgo {
      * @param IV_EV_Ratio IV/EV. Tells us how good the model is
      * @param clusters will store out cluster in an array
      * @param converge will tell us if our K-means algorithm converged, will change if point changes cluster*
-     * @param String that will give summary of current run of K-means Algorithm
+     * @param summary that will give summary of current run of K-means Algorithm
      * */
     private int num_of_cluster;
     private double Extracluster_Variability;
@@ -50,8 +52,6 @@ public class KmeansAlgo {
      */
     public void start(){
         for(Point datum : Data){
-            //for each datum assign a random cluster
-            //int rand_cluster =(int)((Math.random() * (num_of_cluster)));
             Random rand = new Random();
             int rand_cluster = rand.nextInt(num_of_cluster) + 1;
             datum.setCluster(rand_cluster);
@@ -73,6 +73,11 @@ public class KmeansAlgo {
             iterations++;
              for(Point datum: Data){
                  Point Closest_centroid = closestCentroid(datum);
+                 /*
+                    If closest centroid is not equal to the point's current assigned cluster
+                    then assigned that point to closest centrods cluster
+                    If this happens then our algorithm has not converged
+                  */
                  if(Closest_centroid.getCluster() != datum.getCluster()) {
                      converge = false;
 
@@ -82,12 +87,9 @@ public class KmeansAlgo {
              }
             calculateCentroids();
             calculate_IV_EV_Ratio();
-            //System.out.println(toString());
             addToSummary();
         }
-        //System.out.println("");
-
-           calculate_IV_EV_Ratio();
+        calculate_IV_EV_Ratio();
 
     }
 
@@ -214,6 +216,10 @@ public class KmeansAlgo {
         IV_EV_Ratio = Intercluster_Variability/Extracluster_Variability;
     }
 
+    /**
+     *
+     * @return returns IV/EV
+     */
     public double getIV_EV_Ratio() {
         return IV_EV_Ratio;
     }
@@ -228,12 +234,19 @@ public class KmeansAlgo {
                 '}';
     }
 
+    /**
+     * add an instance description to the summary
+     */
     private void addToSummary(){
         summary += ("Instance #:" + iterations + System.getProperty("line.separator"));
         summary += toString();
         summary += System.getProperty("line.separator");
     }
 
+    /**
+     * creates full summary for KMeans Algorithm
+     * @return string that is summary of kmeans algorithm
+     */
     public String getSummary() {
         String prefix =("Iteration took " + iterations + " instance(s) to converge" + System.getProperty("line.separator"));
         String suffix = "";

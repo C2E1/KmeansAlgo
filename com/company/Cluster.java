@@ -3,13 +3,14 @@ package com.company;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-/**
- * Created by Christian on 9/30/2016.
- */
 public class Cluster {
 
     /**
-     *
+     *@param ClusterIV indivdual cluster IV
+     *@param centroid  centroid for cluster
+     *@param ClusterID the identity of cluster
+     *@param pointSet set of points that are assgned to cluster
+     *@param Centroid_History list of centroids for the cluster throughou tthe iterations
      */
     private double ClusterIV;
     private Point centroid;
@@ -27,6 +28,9 @@ public class Cluster {
         return pointSet;
     }
 
+    /**
+     * Calcluates Centroid
+     */
     public void calculateCentroid(){
         double avgs[] = new double[7];
         for(int i = 0; i < avgs.length;i++)
@@ -63,6 +67,9 @@ public class Cluster {
         pointSet.remove(datum);
     }
 
+    /**
+     * calculates clusterIV
+     */
     public void calculateClusterIV(){
             ClusterIV = 0;
             for(Point datum : pointSet){
